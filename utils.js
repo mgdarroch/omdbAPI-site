@@ -9,3 +9,5 @@ const debounce = (func, delay=1000) => {
         }, delay)
     };
 };
+
+const test = () => {}
